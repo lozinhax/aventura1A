@@ -8,3 +8,13 @@ body {
     height: 700px;
     margin: 0;
 }
+
+button {
+    background-color: rgb(183, 183, 232);
+    color:black;
+font-family:'Times New Roman', Times, serif;
+}
+
+.passo{
+    display:flex;
+}
